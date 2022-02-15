@@ -1,0 +1,16 @@
+<?xml version = "1.0" encoding = "UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+
+<suite name = "Suitetest">
+
+<!-- <listeners>
+		<listener class-name="reporting" />
+	</listeners> -->
+
+   <test name = "exampletest1">
+      <classes>
+         <class name = "Logintest" />
+      </classes>
+   </test>
+
+</suite>
